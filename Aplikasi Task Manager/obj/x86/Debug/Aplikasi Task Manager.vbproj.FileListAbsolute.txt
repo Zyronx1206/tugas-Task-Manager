@@ -1,0 +1,9 @@
+D:\Latihan Pak Farhan (Cyber Security)\Aplikasi Task Manager\Aplikasi Task Manager\bin\Debug\Aplikasi Task Manager.exe
+D:\Latihan Pak Farhan (Cyber Security)\Aplikasi Task Manager\Aplikasi Task Manager\bin\Debug\Aplikasi Task Manager.pdb
+D:\Latihan Pak Farhan (Cyber Security)\Aplikasi Task Manager\Aplikasi Task Manager\bin\Debug\Aplikasi Task Manager.xml
+D:\Latihan Pak Farhan (Cyber Security)\Aplikasi Task Manager\Aplikasi Task Manager\obj\x86\Debug\Aplikasi_Task_Manager.Form1.resources
+D:\Latihan Pak Farhan (Cyber Security)\Aplikasi Task Manager\Aplikasi Task Manager\obj\x86\Debug\Aplikasi_Task_Manager.Resources.resources
+D:\Latihan Pak Farhan (Cyber Security)\Aplikasi Task Manager\Aplikasi Task Manager\obj\x86\Debug\Aplikasi Task Manager.vbproj.GenerateResource.Cache
+D:\Latihan Pak Farhan (Cyber Security)\Aplikasi Task Manager\Aplikasi Task Manager\obj\x86\Debug\Aplikasi Task Manager.exe
+D:\Latihan Pak Farhan (Cyber Security)\Aplikasi Task Manager\Aplikasi Task Manager\obj\x86\Debug\Aplikasi Task Manager.xml
+D:\Latihan Pak Farhan (Cyber Security)\Aplikasi Task Manager\Aplikasi Task Manager\obj\x86\Debug\Aplikasi Task Manager.pdb
